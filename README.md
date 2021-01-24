@@ -3,22 +3,11 @@
         <a href="https://resimlink.com/63d" title="ResimLink - Resim Yükle"><img src="https://r.resimlink.com/63d.jpg" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a>
     </a>
     <br>
-    <b>Pluggable Telegram UserBot</b>
+    <b>Telegram UserBot</b>
     <br>
-    <a href="https://github.com/UsergeTeam/Userge#documentation-">Documentation</a>
-    &nbsp•&nbsp
-    <a href="https://github.com/UsergeTeam/Userge#inspiration-">Inspiration</a>
-    &nbsp•&nbsp
-    <a href="https://github.com/UsergeTeam/Userge#features-">Features</a>
-    &nbsp•&nbsp
-    <a href="https://github.com/UsergeTeam/Userge#example-plugin-">Example</a>
-    &nbsp•&nbsp
-    <a href="https://github.com/UsergeTeam/Userge#project-credits-">Project Credits</a>
-    &nbsp•&nbsp
-    <a href="https://github.com/UsergeTeam/Userge#copyright--license-">Copyright & License</a>
-</p>
+    </p>
 
-# Userge 🔥
+# UserBot 🔥
 
 [![Build Status](https://travis-ci.com/UsergeTeam/Userge.svg?branch=alpha)](https://travis-ci.com/UsergeTeam/Userge)
 ![Python Version](https://img.shields.io/badge/python-3.8/3.9-lightgrey)
@@ -40,9 +29,6 @@
 
 > **Userge** is a Powerful , _Pluggable_ Telegram UserBot written in _Python_ using [Pyrogram](https://github.com/pyrogram/pyrogram).
 
-## Documentation 📘
-
-> you can find full documentation [**here**](https://theuserge.github.io)
 
 ## Inspiration 😇
 
@@ -53,31 +39,7 @@
 * [Telegram-Paperplane](https://github.com/RaphielGang/Telegram-Paperplane)
 * [UniBorg](https://github.com/SpEcHiDe/UniBorg)
 
-> Special Thanks to all of you !!!.
-
 ## How To Deploy 👷
 
 * [**With Heroku 🇭**](https://theuserge.github.io/deployment#deploying-with-heroku)  
   [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Usergeteam/Userge/tree/beta)
-
-* [**With Docker 🐳**](https://theuserge.github.io/deployment#deploying-with-docker-)
-
-* [**With Git, Python and pip 🔧**](https://theuserge.github.io/deployment#deploying-with-legacy-method)
-
-### Video Tutorial 🎥
-
-  [![Tutorial](resources/tutorial.jpg)](https://youtu.be/M4T_BJvFqkc "Tutorial")
-
-### Support & Discussions 👥
-
-> Head over to the [Discussion Group](https://t.me/usergeot) and [Update Channel](https://t.me/theUserge)
-
-### Project Credits 💆‍♂️
-
-* [Specially to these projects](https://github.com/UsergeTeam/Userge#inspiration-) 🥰
-* [Contributors](https://github.com/UsergeTeam/Userge/graphs/contributors) 👥
-
-### Copyright & License 👮
-
-* Copyright (C) 2020 by [UsergeTeam](https://github.com/UsergeTeam) ❤️️
-* Licensed under the terms of the [GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007](https://github.com/UsergeTeam/Userge/blob/master/LICENSE)
