@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/UsergeTeam/Userge">
-        <img src="resources/userge.png" alt="Userge">
+        <a href="https://resimlink.com/63d" title="ResimLink - Resim Yükle"><img src="https://r.resimlink.com/63d.jpg" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a>
     </a>
     <br>
     <b>Pluggable Telegram UserBot</b>
